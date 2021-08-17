@@ -2,11 +2,11 @@
 
 hi! this is my first bot that i made
 
-you can make a bot like mine by using https://replit.com
+you can make a bot like mine by using [replit](https://replit.com)
 
-you can use https://uptimerobot.com to make your bot run forever
+you can use [uptimerobot](https://uptimerobot.com) to make your bot run forever
 
-click on https://bit.ly/aliveOwll to add my bot on your server
+click [here](https://bit.ly/aliveOwll) to add my bot on your server
 
 my bot's prefix = owl.
 
@@ -32,6 +32,10 @@ fight <👊, 🐶, ✋, punch, pet, slap>
 fight da bot
 ---------
 ```
+
+# Authors
+
+Mr.Owllers || [Github](github.com/Mr-Owllers) || [Discord Server](https://discord.gg/KNa7xAZ2xH) || [Youtube](https://www.youtube.com/channel/UCxwmzTRETfLimI012CJoGnA) ||
 
 # License and copyright
 
