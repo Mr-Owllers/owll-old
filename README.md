@@ -33,4 +33,6 @@ fight da bot
 ---------
 ```
 
-# Thank You
+# License and copyright
+
+Licensed under [MIT license](LICENSE)
