@@ -2,7 +2,7 @@
 
 ## v1.0.1 Aug. 17, 2021
 
-### Added
+### Added-
 
 - [README.md](README.md)
 - [LICENSE](LICENSE)
@@ -12,7 +12,7 @@
 
 ## v1.0.0 Aug. 16, 2021
 
-### Added
+### Added-
 
 - [main.py](main.py)
 - [webserver.py](webserver.py)
