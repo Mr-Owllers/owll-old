@@ -1,5 +1,3 @@
-![GitHub](https://img.shields.io/github/license/Mr-Owllers/owll)
-
 # owll
 
 hi! this is my first bot that i made
