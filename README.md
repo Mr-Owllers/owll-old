@@ -33,6 +33,10 @@ fight da bot
 ---------
 ```
 
+# Changlog
+
+v1.0.0 [changelog](CHANGELOG.md)
+
 # Authors
 
 Mr.Owllers || [Github](github.com/Mr-Owllers) || [Discord Server](https://discord.gg/KNa7xAZ2xH) || [Youtube](https://www.youtube.com/channel/UCxwmzTRETfLimI012CJoGnA) ||
