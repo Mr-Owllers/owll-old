@@ -8,6 +8,8 @@
 - [LICENSE](LICENSE)
 - [CHANGELOG.md](CHANGELOG.md)
 
+---
+
 ## v1.0.0 Aug. 16, 2021
 
 ### Added
