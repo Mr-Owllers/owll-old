@@ -2,7 +2,7 @@
 
 ## v1.0.2 Aug. 18, 2021
 
-### Bug fixes-
+### Small fixes-
 
 - in main.py
 
