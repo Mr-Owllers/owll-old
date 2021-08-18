@@ -35,7 +35,7 @@ fight da bot
 
 # Changlog
 
-v1.0.0 [changelog](CHANGELOG.md)
+v1.0.2 [changelog](CHANGELOG.md)
 
 # Authors
 
