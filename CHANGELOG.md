@@ -1,5 +1,13 @@
 # Change Log
 
+## v1.0.2 Aug. 18, 2021
+
+### Bug fixes-
+
+- in main.py
+
+---
+
 ## v1.0.1 Aug. 17, 2021
 
 ### Added-
