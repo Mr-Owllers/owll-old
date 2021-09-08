@@ -65,7 +65,7 @@ async def rps(ctx, choice):
     pc=['👊', '✌️', '✋', 'rock', 'paper', 'scissors']
     choices=['👊', '✌️', '✋']
     if choice not in pc:
-        await ctx.send("error: please put :punch:, :raised_hand: or :v:")
+        await ctx.send("error: please put :punch:, :raised_hand:, :v:, rock, paper or scissors")
     else:
         await ctx.send(random.choice(choices))
 
