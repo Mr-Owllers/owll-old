@@ -1,5 +1,13 @@
 # Change Log
 
+## v1.0.4 Sep. 24, 2021
+
+### Big update-
+
+- cogs and new commands
+
+---
+
 ## v1.0.3 Sep. 8, 2021
 
 ### Small fixes-
