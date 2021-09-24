@@ -8,34 +8,11 @@ you can use [uptimerobot](https://uptimerobot.com) to make your bot run forever
 
 click [here](https://bit.ly/aliveOwll) to add my bot on your server
 
-my bot's prefix = owl.
-
-```
-commands
----------
-yeet
-just a fun command
----------
-ping
-check the ping
----------
-8ball <question>
-ask anything
----------
-coinflip
-flips a coin for you
----------
-rps <👊, ✌️, ✋, rock, paper or scissors>
-rock paper scissors
----------
-fight <👊, 🐶, ✋, punch, pet, slap>
-fight da bot
----------
-```
+> bot's prefix is owl.
 
 # Changlog
 
-v1.0.3 [changelog](CHANGELOG.md)
+v1.0.4 [changelog](CHANGELOG.md)
 
 # Authors
 
