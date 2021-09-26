@@ -12,7 +12,7 @@
 
 ### Big update-
 
-- [cogs](.\cogs) and new commands
+- cogs and new commands
 
 ---
 
