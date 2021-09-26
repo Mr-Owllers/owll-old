@@ -1,11 +1,12 @@
 import random
+import discord
 from discord.ext import commands
 
 class Fun(commands.Cog):
   
   def __init__(self, client):
     self.client=client
-
+        
   @commands.command(
         help="funny command"
   )
@@ -19,6 +20,7 @@ class Fun(commands.Cog):
   )
   async def _8ball(self, ctx, *, question):
     async with ctx.typing():
+
       responses = ["As I see it, yes.", "Ask again later.", "Better not tell you now.", "Cannot predict now.", "Concentrate and ask again.",
              "Don’t count on it.", "It is certain.", "It is decidedly so.", "Most likely.", "My reply is no.", "My sources say no.",
              "Outlook not so good.", "Outlook good.", "Reply hazy, try again.", "Signs point to yes.", "Very doubtful.", "Without a doubt.",
@@ -57,6 +59,13 @@ class Fun(commands.Cog):
         await ctx.send("error: please put :punch:, :raised_hand:, :dog:, punch, slap or pet")
       else:
         await ctx.send(f'{random.choice(fight)} you\nI deal {random.choice(dam)}% damage\nYou deal {random.choice(dam)}% damage')
+
+  @commands.command(help="make the bot say something", aliases=["say", "print"])
+  async def echo(self, ctx, *, saysen):
+    async with ctx.typing():
+      em = discord.Embed(title="say command", description=f"{saysen}", color=0xe397f2)
+      em.set_footer(text=f"by {ctx.author.name}")
+      await ctx.send(embed=em)
 
 def setup(client):
   client.add_cog(Fun(client))

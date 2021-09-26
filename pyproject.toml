@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "repl_python3_alive"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+version = "v1.0.5"
+description = "it's alive"
+authors = ["Mr.Owllers", "Erdii"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -10,7 +10,7 @@ discord = "^1.7.3"
 Flask = "^2.0.1"
 python-dotenv = "^0.19.0"
 praw = "^7.4.0"
-jishaku = "^2.3.0"
+buttons = "^0.1.9"
 
 [tool.poetry.dev-dependencies]
 

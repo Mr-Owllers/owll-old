@@ -38,6 +38,11 @@ class general(commands.Cog):
                 
                 if not members:
                     return await ctx.send("Please specify someone to hug.")
+
+                if ctx.author in members:
+                  return await ctx.send("do you... need a hug?")
+                
+
                 e = discord.Embed(color=0xff0000, description=f"**{ctx.message.author.display_name}** hugs " + "**" + '**, **'.join(x.display_name for x in members) + "**")
                 
                 manual = hug

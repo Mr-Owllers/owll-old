@@ -14,7 +14,7 @@ from discord.ext import commands
 class Memes(commands.Cog):
   
   def __init__(self, client):
-    self.client=client
+    self.client=client  
 
   @commands.command(help="search memes from reddit")
   async def reddit(self, ctx, *, subred="memes"):
@@ -41,6 +41,8 @@ class Memes(commands.Cog):
         await ctx.send("the post is nsfw")
       else:
         await ctx.send(embed = em)
+    
+
 
 def setup(client):
   client.add_cog(Memes(client))
