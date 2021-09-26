@@ -1,5 +1,13 @@
 # Change Log
 
+## v1.0.5 Sep. 26, 2021
+
+### Added-
+
+- error handlers and new commands
+
+---
+
 ## v1.0.4 Sep. 24, 2021
 
 ### Big update-
