@@ -24,7 +24,7 @@ client = commands.Bot(
     help_command = help_command
 )
 
-owners = [759850502661472321, 225685670788726784]
+owners = ["id 1", "id 2"]#put your id here
 
 @client.event
 async def on_ready():
