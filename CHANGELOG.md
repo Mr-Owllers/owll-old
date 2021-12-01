@@ -12,7 +12,7 @@
 
 ### Fixed-
 
-- the whole bot by making a new repl ([click here to see the new github project](github.com/Mr-Owllers/owll-v2))
+- the whole bot by making a new repl ([click here to see the new github repository](github.com/Mr-Owllers/owll-v2))
 
 ---
 
