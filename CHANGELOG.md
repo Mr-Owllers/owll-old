@@ -1,5 +1,21 @@
 # Change Log
 
+## v1.0.5.5 Dec. 1, 2021
+
+### Migreted-
+
+- to nextcord
+
+### Broke-
+
+- the whole bot
+
+### Fixed-
+
+- the whole bot by making a new repl ([click here to see the new github project](github.com/Mr-Owllers/owll-v2))
+
+---
+
 ## v1.0.5 Sep. 26, 2021
 
 ### Added-
