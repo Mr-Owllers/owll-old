@@ -1,7 +1,7 @@
 > <h3><b>⚠️ Warning!</b></h3>
 > This github repository is not maintained anymore because of v1.0.5.5.
 > 
-> I made a seprate [github repository](github.com/Mr-Owllers/owll-v2)
+> I made a seprate [github repository](https://github.com/Mr-Owllers/owll-v2)
 >, so you can go there to see the updated version of my bot.
 > Sorry for breaking my bot. i will try to not break my bot from now on.
 
